@@ -1,0 +1,63 @@
+[
+{
+    "id":1,
+    "name":"Laptop",
+    "category":"Computers",
+    "brand":"ExampleBrand",
+    "price":999.99,
+    "stock":50,
+    "description":"Powerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/lapi.png"
+},
+{
+    "id":2,
+    "name":"SmartPhone",
+    "category":"Mobiles",
+    "brand":"techGadget",
+    "price":499.99,
+    "stock":50,
+    "description":"Pwerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/mobiles.png"
+},
+{
+    "id":3,
+    "name":"Laptop",
+    "category":"Computers",
+    "brand":"ExampleBrand",
+    "price":999.99,
+    "stock":50,
+    "description":"Pwerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/"
+},
+{
+    "id":4,
+    "name":"Laptop",
+    "category":"Computers",
+    "brand":"ExampleBrand",
+    "price":999.99,
+    "stock":50,
+    "description":"Pwerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/lapi.png"
+},
+{
+    "id":5,
+    "name":"Laptop",
+    "category":"Computers",
+    "brand":"ExampleBrand",
+    "price":999.99,
+    "stock":50,
+    "description":"Pwerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/lapi.png"
+},
+{
+    "id":6,
+    "name":"Laptop",
+    "category":"Computers",
+    "brand":"ExampleBrand",
+    "price":999.99,
+    "stock":50,
+    "description":"Pwerful laptop with a quad-core i5 processor, 8GB RAM,256GB SSD,and a 14-inch FHD display.",
+    "image":"../public/images/lapi.png"
+}
+
+]

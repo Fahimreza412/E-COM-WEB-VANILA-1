@@ -239,6 +239,31 @@ textarea:focus-visible {
   padding: 1.8rem; /* we override the main container padding property  */
 }
 
+/* !animated text */
+
+.fire-reza {
+  font-size: 6em;
+  font-family: 'Arial Black', sans-serif;
+  text-align: center;
+  animation: fire 1s ease-in-out infinite alternate;
+}
+
+@keyframes fire {
+  0% {
+    text-shadow: 0 0 20px #ff3010,
+                 0 0 30px #ff3010,
+                 0 0 40px #ff3010;
+  }
+  100% {
+    text-shadow: 0 0 20px #ff9060,
+                 0 0 30px #ff9060,
+                 0 0 40px #ff9060,
+                 0 0 50px #ff9060,
+                 0 0 60px #ff9060;
+  }
+}
+
+
 .section-navbar img {
   width: 25%;
 }
